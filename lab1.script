@@ -1,0 +1,25 @@
+命令稿啟動於 2018年03月10日 下午 03:26:40
+]0;~
+[32muser@Eric-Jobs [33m~[0m
+$ whoami;pwd
+user
+/home/user
+]0;~
+[32muser@Eric-Jobs [33m~[0m
+$ git config -l
+user.email=chy990804@gmail.com
+user.name=chy990804
+]0;~
+[32muser@Eric-Jobs [33m~[0m
+$ git clone https://github.com/chy990804/git [Klgitagitbgit1git.git[C[C[C
+Cloning into 'lab1'...
+remote: Counting objects: 3, done.[K
+remote: Compressing objects:  50% (1/2)   [Kremote: Compressing objects: 100% (2/2)   [Kremote: Compressing objects: 100% (2/2), done.[K
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0[K
+Unpacking objects:  33% (1/3)   Unpacking objects:  66% (2/3)   Unpacking objects: 100% (3/3)   Unpacking objects: 100% (3/3), done.
+]0;~
+[32muser@Eric-Jobs [33m~[0m
+$ exit
+
+命令稿已於 2018年03月10日 下午 03:27:50
+ 完成
